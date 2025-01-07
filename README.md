@@ -15,4 +15,4 @@ I'm a Nigerian Full Stack Developer skilled in React & Django. I build web appli
 
 ## 📊 GitHub Stats
 
-![Desmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DesmondEgya&show_icons=true&count_private=true&theme=radical)
+![Desmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=desegya&show_icons=true&count_private=true&theme=radical)
