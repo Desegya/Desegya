@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Desmond Egya
 
-I'm a Nigerian Full Stack Developer currently in my third year studying Computer Engineering. I have a passion for creating impactful web applications and specialize in building scalable and user-friendly experiences with **React**, **Django**, and **Python**. When I'm not coding, I'm always learning new tools and technologies to stay ahead of the curve in the ever-evolving world of software development. I love to learn and discover.
+I'm a Nigerian Full Stack Developer. I have a passion for creating impactful web applications and specialize in building scalable and user-friendly experiences with **React**, **Django**, and **Python**. When I'm not coding, I'm always learning new tools and technologies to stay ahead of the curve in the ever-evolving world of software development. I love to learn and discover.
 
 I’m driven by the idea of solving real-world problems with technology and building solutions that people can enjoy.
 
