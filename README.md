@@ -31,7 +31,7 @@ Check out more projects on my portfolio website linked below!
 
 - [LinkedIn](https://www.linkedin.com/in/desmond-egya)
 - [Twitter](https://twitter.com/DesmondEgya)
-- [Portfolio](https://desmondegya.vercel.app/) 
+- [Portfolio](https://dezzi.dev/) 
 - Email: egyadesmond@gmail.com
 
 ## 📊 GitHub Stats
