@@ -1,53 +1,34 @@
-# Hi there! 👋 I'm Desmond Egya
+# Desmond Egya
 
-I'm a Nigerian Full Stack Developer. I have a passion for creating impactful web applications and specialize in building scalable and user-friendly experiences with **React**, **Django**, and **Python**. When I'm not coding, I'm always learning new tools and technologies to stay ahead of the curve in the ever-evolving world of software development. I love to learn and discover.
+**Software Engineer · Full-Stack & Mobile** · Nigeria
 
-I’m driven by the idea of solving real-world problems with technology and building solutions that people can enjoy.
+I build production web, mobile, and backend systems. I'm the primary engineer at **Bucks**, a Nigerian fintech (payments, KYC, fraud detection), and CTO of **Saints Sparks Innovation**, a ~15-person software studio.
 
-## 💻 My Skills
+## What I work with
 
-- **Frontend**: React, HTML5, CSS3, JavaScript, TypeScript
-- **Backend**: Django, Python
-- **Databases**: MySQL
-- **Version Control**: Git, GitHub
-- **Others**: Docker
+- **Languages:** TypeScript, JavaScript, Python, Go
+- **Frontend & mobile:** React, Next.js, React Native, Expo, Tailwind CSS
+- **Backend:** Node.js, NestJS, Express, Django, Socket.IO, BullMQ
+- **Data:** MongoDB, PostgreSQL, Supabase, Redis
+- **Domains:** payments, KYC/BVN, fraud detection, authentication, USSD/IVR
 
-## 🚀 Projects
+## Selected work
 
-Here are some of the projects I've worked on:
+- **[Zikorra](https://zikorra.com)**: artisan and home-services marketplace. I built the customer app, artisan app, admin dashboard, and landing page.
+- **[Talim](https://mytalim.com)**: client platform where I built the UI, much of the backend, and the in-app chat.
+- **[Promisepoint Tech](https://promisepointgtnl.com)**: agri-fintech for farmers. I built the UI, a voice IVR in English, Yoruba, Igbo, and Pidgin, tiered wallet limits, and bills payment.
+- **[AyTa](https://www.ayta.com.ng)**: meal-planning and calorie-tracking platform (freelance).
+- **[ATPB](https://www.atpb.org)**: property brokerage site with lead capture and appointment booking.
+- **BEN Church App**: React Native/Expo app with a Next.js admin dashboard on Supabase.
 
-### [**Gamehub**](https://game-hub-blond-mu.vercel.app/)
-A video game discovery platform that allows users to explore games by platform, genre, and rating.
+## Beyond code
 
-### **Storefront** *(Work in Progress)*
-A backend-only e-commerce application designed with Django and MySQL to support transactions. Stay tuned for updates!
+I teach coding and engineering skills through workshops and mentor developers.
 
-### **EventLight** *(Work in Progress)*
-A discovery platform for Christian events, helping users find gospel events happening around them.
+## Get in touch
 
-Check out more projects on my portfolio website linked below!
-
-## 📞 Contact Me
+Open to software engineering roles across backend, full-stack, and mobile.
 
 - [LinkedIn](https://www.linkedin.com/in/desmond-egya)
-- [Twitter](https://twitter.com/DesmondEgya)
-- [Portfolio](https://dezzi.dev/) 
-- Email: egyadesmond@gmail.com
-
-## 📊 GitHub Stats
-
-![Desmond's GitHub Stats](https://github-readme-stats.vercel.app/api?username=desegya&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=desegya&layout=compact&theme=radical)   
-
-
-## 🤔 Fun Facts
-
-- 🚀 I enjoy exploring new places and cultures.
-- 📚 I’m an avid reader who loves fictional books.
-- 👨‍🏫 I teach people how to code and enjoy mentoring budding developers.
-- 🧠 I think outside the box to solve problems creatively.
-- 🛠️ I love experimenting with new programming languages and frameworks.
-
-## 🙌 Let's Connect!
-
-Feel free to reach out if you’d like to collaborate on an exciting project, share knowledge, or just chat about tech. I’m always happy to connect and create interesting stuff!
+- [Portfolio](https://desmondegya.vercel.app)
+- egyadesmond@gmail.com
